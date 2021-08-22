@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: rgb(27, 209, 255);
+		background: rgb(253, 253, 253);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #00e1ff;
+		color: #ffffff;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -111,18 +111,18 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #ffffff !important;
 			text-decoration: none;
 		}
 
 	strong, b {
-		color: #00eeff;
+		color: #ffffff;
 		font-weight: 400;
 	}
 
